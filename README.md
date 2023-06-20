@@ -18,7 +18,6 @@ Projede admin paneline şube, kullanıcı ve müşteri talepleri eklenebilir.
 ![4](https://github.com/yarenplat/DryCleaner_Sunum/assets/125990032/c963c618-931f-485a-8898-e834b0bd59fd)
 ![7](https://github.com/yarenplat/DryCleaner_Sunum/assets/125990032/79f13c8c-ec6f-422f-b16b-2f383d6715f8)
 ![anasayfa](https://github.com/yarenplat/DryCleaner_Sunum/assets/125990032/b0851ca8-c2bc-4794-9dee-1376dd4d5023)
-![anasayfa2](https://github.com/yarenplat/DryCleaner_Sunum/assets/125990032/362ef7c1-30a1-41b5-8fab-7eac11153fa0)
 ![5](https://github.com/yarenplat/DryCleaner_Sunum/assets/125990032/e8414283-6e79-47a7-8df0-cb2b18c21e67)
 ![2](https://github.com/yarenplat/DryCleaner_Sunum/assets/125990032/551f2075-8c95-4145-a5e8-c949e49e4cc2)
 
